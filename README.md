@@ -1,2 +1,1 @@
-# Jacobi Model
-Jacobi Stochastic Volatility Model
+# Hybrid scheme for Brownian semistationary processes
